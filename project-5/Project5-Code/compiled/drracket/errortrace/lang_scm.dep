@@ -1,0 +1,1 @@
+("8.8" tarm64osx ("bc11adc4ba852093f9408dad062322abe6c6dca1" . "fb7f4efba072d7893ccd482e9fce3c08bc84e2aa") #"/Users/batuhanarat/Desktop/Spring2023/Comp301/Project/project5/drscheme-init.scm" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"eopl" #"eopl.rkt"))
